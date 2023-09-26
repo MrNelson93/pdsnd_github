@@ -42,8 +42,7 @@ def get_filters():
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
-        dow = input("Input day of week: ")
-        dow = dow.lower()
+        dow = input("Input day of week: ").lower()
         day_of_week = ['all','monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday','sunday']
         if dow not in day_of_week:
             print('Invalid day of week, please type another day of week')

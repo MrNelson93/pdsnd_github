@@ -23,5 +23,5 @@ For this project, the following files were used:
 The files contain data for Chicago, New York City and Washington respectively.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanking the Udacity team and Access Bank for their effort into putting this course together.
 

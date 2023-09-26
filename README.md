@@ -15,7 +15,12 @@ The project involves importing the relevant data - in csv format, and computing 
 **_A key feature of the project_** is that it allows for an interactive experience when using a terminal to query the python file.
 
 ### Files used
-Include the files used
+For this project, the following files were used:
+* chicago.csv
+* new_york_city.csv
+* washington.csv
+
+The files contain data for Chicago, New York City and Washington respectively.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
